@@ -1,0 +1,17 @@
+
+static std::string cfdData = R"(
+#Yamatori window properties
+
+Title            = "Yamatori"
+GraphicAPI       = OpenGL
+Mode             = FullscreenWindow
+Width            = 800
+Height           = 600
+FullscreenWidth  = 0
+FullscreenHeight = 0
+FrameRate        = 144
+
+VSyncEnable      = True
+ResizeEnable     = True
+BorderEnable     = True
+)";
